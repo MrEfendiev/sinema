@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sinema/static/css/main.db5b4234.css",
+    "main.js": "/sinema/static/js/main.10a4c40c.js",
+    "static/js/787.835b0af2.chunk.js": "/sinema/static/js/787.835b0af2.chunk.js",
+    "index.html": "/sinema/index.html",
+    "main.db5b4234.css.map": "/sinema/static/css/main.db5b4234.css.map",
+    "main.10a4c40c.js.map": "/sinema/static/js/main.10a4c40c.js.map",
+    "787.835b0af2.chunk.js.map": "/sinema/static/js/787.835b0af2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5b4234.css",
+    "static/js/main.10a4c40c.js"
+  ]
+}
